@@ -1,0 +1,8 @@
+﻿  Source.cpp
+c:\users\user01\desktop\ctz計測用　long double\project5\source.cpp(437): warning C4244: '=': 'double' から 'int' への変換です。データが失われる可能性があります。
+c:\users\user01\desktop\ctz計測用　long double\project5\source.cpp(707): warning C4244: '初期化中': 'double' から 'int' への変換です。データが失われる可能性があります。
+c:\users\user01\desktop\ctz計測用　long double\project5\source.cpp(697): warning C4101: 'ft_bs3': ローカル変数は 1 度も使われていません。
+c:\users\user01\desktop\ctz計測用　long double\project5\source.cpp(405): warning C4101: 'check': ローカル変数は 1 度も使われていません。
+c:\users\user01\desktop\ctz計測用　long double\project5\source.cpp(1154): warning C4244: '=': 'double' から 'int' への変換です。データが失われる可能性があります。
+c:\users\user01\desktop\ctz計測用　long double\project5\source.cpp(1113): warning C4101: 'check': ローカル変数は 1 度も使われていません。
+  Project5.vcxproj -> C:\Users\user01\Desktop\ctz計測用　long double\Debug\Project5.exe
